@@ -102,3 +102,34 @@ Research focus:
 - Docker
 - Power BI
 - Reproducible Research Workflows
+
+## 📚 Research & Publications
+
+### Research Projects
+
+**EndSurvGAN: Generative Statistical Learning for Censored Time-to-Event Data**  
+Accepted for Oral Presentation at the 18th Iranian Statistics Conference.
+
+Research focus:
+- Survival-aware generative modeling
+- Censored time-to-event data
+- Synthetic data generation
+- Statistical validation of generated samples
+
+
+**Multi-Outcome Prediction of Medication-Related Harm in ICU Patients Using MIMIC-IV**  
+Research collaboration on developing machine learning models for clinical risk prediction.
+
+Research focus:
+- Clinical machine learning
+- Predictive modeling
+- Model evaluation and validation
+
+
+### Publications & Manuscripts
+
+- UniSurvFormer: Transformer-based Modeling for Recurrent Event Data  
+  Research on deep learning approaches for recurrent event modeling.
+
+- Statistical Learning Methods in Survival Analysis  
+  Comparative analysis of traditional statistical models and machine learning approaches.
