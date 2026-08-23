@@ -17,6 +17,17 @@ I develop data-driven methods and AI-powered analytical systems by combining sta
 - Reproducible Statistical Computing
 - AI-assisted Statistical Systems
 
+## 🌱 Current Research Focus
+
+I am currently exploring reliable AI and statistical learning systems, with a focus on:
+
+- Large Language Models for data analytics
+- Trustworthy and interpretable machine learning
+- Generative models for statistical data
+- AI-assisted statistical workflows
+- Reproducible data science systems
+
+  
 ## 🚀 Featured Projects
 
 ### 🛡️ DataGuard-Agent
