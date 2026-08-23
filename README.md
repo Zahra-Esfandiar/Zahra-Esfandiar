@@ -9,7 +9,7 @@
 🔬 Statistical Machine Learning Researcher  
 🤖 Working at the intersection of Statistics, Machine Learning, Generative AI, and Trustworthy AI Systems
 
-I develop data-driven methods and AI-powered analytical systems by combining statistical modeling, machine learning, and reproducible software development.
+I develop data-driven methods and AI-powered analytical systems by combining statistical modeling, machine learning, and reproducible software development and My work focuses on building reliable statistical AI systems for complex real-world data applications.
 
 ## 🔬 Research Interests
 
