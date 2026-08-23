@@ -133,3 +133,16 @@ Research focus:
 
 - Statistical Learning Methods in Survival Analysis  
   Comparative analysis of traditional statistical models and machine learning approaches.
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/zahra-esfandiar/)
+- GitHub: https://github.com/Zahra-Esfandiar
+- ResearchGate: [https://orcid.org/](https://www.researchgate.net/profile/Zahra-Esfandiar)
+
+I am always interested in collaborations in:
+- Statistical Machine Learning
+- Survival Analysis
+- Generative AI
+- Trustworthy AI Systems
+- AI-assisted Data Analytics
