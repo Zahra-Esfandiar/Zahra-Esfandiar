@@ -1,5 +1,9 @@
 
 # Hi, I'm Zahra Esfandiar 👋
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![R](https://img.shields.io/badge/R-Statistical%20Computing-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 🎓 MSc Graduate in Mathematical Statistics  
 🔬 Statistical Machine Learning Researcher  
