@@ -71,3 +71,34 @@ Research focus:
 - Competing risks
 - Recurrent event analysis
 - Statistical reporting
+
+## 🧰 Technical Skills
+
+### Programming
+- R
+- Python
+- SQL
+
+### Statistics & Modeling
+- Survival Analysis
+- Time-to-Event Modeling
+- Causal Inference
+- Bayesian Modeling
+- Statistical Learning
+- Experimental Design
+
+### Machine Learning & AI
+- Deep Learning
+- Generative Models
+- Transformers
+- Large Language Models (LLMs)
+- Explainable AI
+- Trustworthy AI
+
+### Data & Software Tools
+- R Shiny
+- Streamlit
+- Git & GitHub
+- Docker
+- Power BI
+- Reproducible Research Workflows
