@@ -154,7 +154,7 @@ Research focus:
 - LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/zahra-esfandiar/)
 - GitHub: https://github.com/Zahra-Esfandiar
 - Google Scholar : https://scholar.google.com/citations?user=t97PX3gAAAAJ&hl=en
-- ResearchGate: [https://orcid.org/](https://www.researchgate.net/profile/Zahra-Esfandiar)
+- ResearchGate: [https://www.researchgate.net/profile/Zahra-Esfandiar]
 
 I am always interested in collaborations in:
 - Statistical Machine Learning
