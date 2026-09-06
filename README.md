@@ -21,16 +21,11 @@
 
 ## 🧠 Research Identity
 
-I am an **MSc Graduate in Mathematical Statistics** working at the intersection of:
+MSc Graduate in Mathematical Statistics working at the intersection of:
 
 📐 Statistical Theory → 🤖 Machine Learning → 🏥 Healthcare & Real-World Intelligence
 
-My goal is to build AI systems that are:
-
-- Statistically rigorous
-- Interpretable
-- Reproducible
-- Useful for real-world decision making
+Focused on building AI systems that are statistically rigorous, interpretable, reproducible, and impactful.
 
 ---
 
@@ -41,7 +36,6 @@ My goal is to build AI systems that are:
 <td width="50%">
 
 ### 📈 Statistical Foundations
-
 - Survival Analysis
 - Time-to-Event Modeling
 - Longitudinal Data Analysis
@@ -53,7 +47,6 @@ My goal is to build AI systems that are:
 <td width="50%">
 
 ### 🤖 AI Methods
-
 - Deep Learning
 - Generative Models
 - Transformers
@@ -70,27 +63,17 @@ My goal is to build AI systems that are:
 ## 🚀 Featured Research & Engineering
 
 ### 🧬 EndSurvGAN
-**Generative Statistical Learning for Censored Time-to-Event Data**
-
-A research framework exploring generative modeling for survival data while preserving statistical characteristics.
+Generative Statistical Learning for Censored Time-to-Event Data
 
 `Survival Analysis` `Generative AI` `Synthetic Data` `Statistical Validation`
 
----
-
 ### 🛡️ DataGuard-Agent
-**AI-Assisted Data Quality & ML Readiness Framework**
-
-An intelligent framework for preparing real-world datasets before machine learning deployment.
+AI-Assisted Data Quality & ML Readiness Framework
 
 `Data Quality` `Leakage Detection` `Drift Monitoring` `Trustworthy AI`
 
----
-
 ### 📊 SurvSure
-**Interactive Survival Analysis Platform**
-
-R Shiny platform for reproducible survival workflows:
+Interactive Survival Analysis Platform
 
 `Competing Risks` `Recurrent Events` `Statistical Reporting`
 
@@ -108,11 +91,19 @@ R Shiny platform for reproducible survival workflows:
 
 ## 📚 Research Highlights
 
-🎤 **EndSurvGAN** — Oral Presentation, 18th Iranian Statistics Conference  
+🎤 EndSurvGAN — Oral Presentation, 18th Iranian Statistics Conference  
+🏥 MIMIC-IV Clinical Risk Prediction — Multi-outcome machine learning for ICU data  
+🧠 UniSurvFormer — Transformer-based recurrent event modeling
 
-🏥 **MIMIC-IV Clinical Risk Prediction** — Multi-outcome machine learning for ICU data  
+---
 
-🧠 **UniSurvFormer** — Transformer-based recurrent event modeling
+## 🏆 Research & GitHub Journey
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zahra-Esfandiar&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
