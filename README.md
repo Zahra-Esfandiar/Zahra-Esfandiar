@@ -6,31 +6,20 @@
 
 ### 📐 Statistical Machine Learning Researcher | 🧬 Biostatistics | 🤖 Trustworthy AI
 
-<p>
-<img src="https://img.shields.io/badge/Survival%20Analysis-Time--to--Event-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Biostatistics-Healthcare%20AI-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistical%20ML-Research-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-Trustworthy%20Systems-7C3AED?style=for-the-badge" />
-</p>
-
-**Building statistically grounded AI systems for complex biomedical and real-world data.**
-
 </div>
 
 ---
 
 ## 🧠 Research Identity
 
-I am an early-career researcher in **Statistical Machine Learning and Biostatistics**, focusing on the intersection of:
+I work at the intersection of **Statistics, Machine Learning, and Healthcare AI**, developing reliable and interpretable methods for complex real-world data.
 
-📐 Statistical Modeling → 🤖 Machine Learning → 🏥 Healthcare Intelligence
-
-My work focuses on developing reliable, interpretable, and reproducible methods for:
+Research interests:
 
 - Survival and time-to-event analysis
 - Longitudinal healthcare data
 - Causal inference
-- Deep statistical learning
+- Statistical learning
 - Generative modeling
 - Trustworthy AI systems
 
@@ -45,64 +34,47 @@ Accepted as an **Oral Presentation — 18th Iranian Statistics Conference (2026)
 
 🔗 https://github.com/Zahra-Esfandiar/EndSurvGAN
 
-`Survival Analysis` `Generative AI` `Synthetic Data` `WGAN-GP` `Statistical Validation`
+`Survival Analysis` `Generative AI` `Synthetic Data` `Statistical Validation`
 
 ---
 
-## 🚀 Applied AI Projects
+## 🚀 Featured AI Systems
 
 ### 🛡️ DataGuard-Agent
-AI-assisted data quality and ML readiness framework.
+AI-assisted framework for data quality, leakage detection, and ML reliability.
 
-Focus:
-- Data validation
-- Leakage detection
-- ML reliability
-- Production monitoring
-
-🔗 https://github.com/Zahra-Esfandiar/DataGuard-Agent
+### 🤖 DE-Intelligence-Agent
+Research intelligence agent for discovery, ranking, memory, and evidence-aware workflows.
 
 ### 🔍 Context-Aware Transaction Anomaly Detection
-Statistical ML approaches for real-world transaction analytics.
+Behavior-aware statistical ML for financial intelligence.
 
-🔗 https://github.com/Zahra-Esfandiar/Context-Aware-Transaction-Anomaly-Detection
+### 📦 PackagePilot
+AI-ready learning workspace for the R ecosystem.
 
 ---
 
-## 📊 Research Areas
+## 📊 Research & Engineering Stack
 
-| Statistical Foundations | AI & Engineering |
+| Statistics | AI Systems |
 | --- | --- |
 | Survival Analysis | Deep Learning |
-| Longitudinal Data | Generative Models |
-| Causal Inference | Transformers |
-| Statistical Learning | AI Agents |
-| Reproducible Research | Explainable AI |
-
----
-
-## 🧪 Selected Research Experience
-
-- 🏥 Clinical risk prediction using large-scale ICU datasets (MIMIC)
-- 🧠 Transformer-based recurrent event modeling
-- 🧬 Survival-aware generative modeling
-- 📊 Statistical analytics and AI systems for real-world applications
+| Longitudinal Models | Generative AI |
+| Causal Inference | AI Agents |
+| Statistical Learning | Explainable AI |
+| Reproducible Research | Data-Centric ML |
 
 ---
 
 ## 🛠️ Technical Stack
 
-<div align="center">
-
 R • Python • SQL • PyTorch • Machine Learning • Deep Learning • LLMs • R Shiny • Power BI • Git
-
-</div>
 
 ---
 
-## 🎓 Research Direction
+## 🎓 PhD Research Direction
 
-Interested in PhD opportunities in:
+Interested in opportunities in:
 
 **Statistics • Biostatistics • Survival Analysis • Statistical Machine Learning • Healthcare AI**
 
@@ -110,14 +82,6 @@ Interested in PhD opportunities in:
 
 ## 📫 Connect
 
-<div align="center">
+GitHub ✦ LinkedIn ✦ Google Scholar
 
-<a href="https://github.com/Zahra-Esfandiar">GitHub</a> ✦
-<a href="https://www.linkedin.com/in/zahra-esfandiar/">LinkedIn</a> ✦
-<a href="https://scholar.google.com/citations?user=t97PX3gAAAAJ&hl=en">Google Scholar</a>
-
-</div>
-
----
-
-⭐ Open to research collaborations in **Statistics, Biostatistics, Survival Analysis, Healthcare AI, and Trustworthy Machine Learning**.
+⭐ Open to research collaborations in Statistics, Biostatistics, Survival Analysis, and Trustworthy AI.
