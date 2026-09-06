@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4338CA,100:0F766E&height=250&section=header&text=Zahra%20Esfandiar&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,45:4338CA,75:2563EB,100:0F766E&height=260&section=header&text=Zahra%20Esfandiar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # 👋 Hi, I'm Zahra Esfandiar
 
-### 📊 Statistical Machine Learning Researcher | 🧬 Biostatistics | 🤖 Trustworthy AI
+### 📐 Statistical Machine Learning Researcher | 🧬 Biostatistics | 🤖 Trustworthy AI
 
 <p>
-<img src="https://img.shields.io/badge/Statistics-Research-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Survival%20Analysis-Time%20to%20Event-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Healthcare-AI-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Intelligence-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-Research%20%26%20Modeling-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Survival%20Analysis-Time--to--Event-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Biostatistics-Healthcare%20AI-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Intelligent%20Systems-2563EB?style=for-the-badge" />
 </p>
 
-**Building reliable AI systems by combining mathematical statistics, machine learning, and real-world data.**
+**Transforming complex data into reliable decisions through mathematical statistics, machine learning, and responsible AI.**
 
 </div>
 
@@ -21,18 +21,16 @@
 
 ## 🧠 Research Identity
 
-I am an **MSc Graduate in Mathematical Statistics** interested in developing statistically grounded and interpretable AI systems.
+I am an **MSc Graduate in Mathematical Statistics** working at the intersection of:
 
-My research connects:
+📐 Statistical Theory → 🤖 Machine Learning → 🏥 Healthcare & Real-World Intelligence
 
-📐 Statistical Theory → 🤖 Machine Learning → 🏥 Healthcare & Real-World Applications
-
-I focus on creating models that are:
+My goal is to build AI systems that are:
 
 - Statistically rigorous
-- Explainable
+- Interpretable
 - Reproducible
-- Impactful in practice
+- Useful for real-world decision making
 
 ---
 
@@ -42,19 +40,19 @@ I focus on creating models that are:
 <tr>
 <td width="50%">
 
-### 📈 Statistical Modeling
+### 📈 Statistical Foundations
 
 - Survival Analysis
 - Time-to-Event Modeling
-- Longitudinal Data
+- Longitudinal Data Analysis
 - Causal Inference
 - Statistical Learning
-- Reproducible Research
+- Reproducible Computing
 
 </td>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+### 🤖 AI Methods
 
 - Deep Learning
 - Generative Models
@@ -69,21 +67,21 @@ I focus on creating models that are:
 
 ---
 
-## 🚀 Featured Research & Projects
+## 🚀 Featured Research & Engineering
 
 ### 🧬 EndSurvGAN
 **Generative Statistical Learning for Censored Time-to-Event Data**
 
-Survival-aware generative modeling for synthetic time-to-event data with statistical validation.
+A research framework exploring generative modeling for survival data while preserving statistical characteristics.
 
-`Survival Analysis` `Generative AI` `Synthetic Data`
+`Survival Analysis` `Generative AI` `Synthetic Data` `Statistical Validation`
 
 ---
 
 ### 🛡️ DataGuard-Agent
 **AI-Assisted Data Quality & ML Readiness Framework**
 
-Preparing real-world datasets for reliable machine learning workflows.
+An intelligent framework for preparing real-world datasets before machine learning deployment.
 
 `Data Quality` `Leakage Detection` `Drift Monitoring` `Trustworthy AI`
 
@@ -92,7 +90,7 @@ Preparing real-world datasets for reliable machine learning workflows.
 ### 📊 SurvSure
 **Interactive Survival Analysis Platform**
 
-R Shiny platform for reproducible survival workflows.
+R Shiny platform for reproducible survival workflows:
 
 `Competing Risks` `Recurrent Events` `Statistical Reporting`
 
@@ -102,7 +100,7 @@ R Shiny platform for reproducible survival workflows.
 
 <div align="center">
 
-📐 R • 🐍 Python • SQL • Machine Learning • Deep Learning • LLMs • R Shiny • Docker • Power BI
+📐 R • 🐍 Python • SQL • Machine Learning • Deep Learning • LLMs • R Shiny • Docker • Power BI • Git
 
 </div>
 
@@ -123,6 +121,20 @@ R Shiny platform for reproducible survival workflows.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zahra-Esfandiar&show_icons=true&theme=transparent&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-Esfandiar&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Zahra-Esfandiar/Zahra-Esfandiar/output/github-contribution-grid-snake.svg" />
 
 </div>
 
