@@ -1,85 +1,95 @@
+<div align="center">
+
 # Hi, I'm Zahra Esfandiar 👋
 
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
-![R](https://img.shields.io/badge/R-Statistical%20Computing-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+### Statistical Machine Learning Researcher | AI & Data Science
 
-🎓 **MSc Graduate in Mathematical Statistics**  
-🔬 **Statistical Machine Learning Researcher**  
-🤖 **Building reliable AI systems at the intersection of Statistics, Machine Learning, and Real-World Data**
+<p>
+  <img src="https://img.shields.io/badge/Statistics-Research-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R-Programming-276DC3?style=for-the-badge&logo=r" />
+  <img src="https://img.shields.io/badge/Python-Data%20Science-yellow?style=for-the-badge&logo=python" />
+</p>
 
-I work on developing statistical and machine learning methods for complex data problems, with a focus on creating models that are accurate, interpretable, and practically useful.
+</div>
 
-My interests include healthcare AI, survival analysis, trustworthy machine learning, generative models, and AI-powered analytical systems.
+---
+
+## 👩‍🔬 About Me
+
+I am an **MSc Graduate in Mathematical Statistics** working at the intersection of:
+
+- 📊 Statistical Machine Learning
+- 🧬 Survival Analysis & Time-to-Event Modeling
+- 🏥 Healthcare AI and Clinical Data Science
+- 🤖 Trustworthy AI Systems
+- 📈 Intelligent Analytics Applications
+
+My goal is to develop **reliable, interpretable, and practical AI systems** by combining statistical methodology with modern machine learning.
 
 ---
 
 ## 🔬 Research Interests
 
-- Survival Analysis & Time-to-Event Modeling
-- Statistical Machine Learning
-- Healthcare AI & Clinical Prediction
+<table>
+<tr>
+<td width="50%">
+
+### Statistics
+
+- Survival Analysis
+- Longitudinal Data Modeling
 - Causal Inference
-- Generative Models for Statistical Data
-- Trustworthy & Explainable AI
-- Large Language Models for Data Analytics
-- Reproducible Statistical Computing
+- Statistical Learning
+- Reproducible Research
+
+</td>
+<td width="50%">
+
+### Artificial Intelligence
+
+- Deep Learning
+- Generative Models
+- Large Language Models
+- Explainable AI
+- AI Agents
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Focus
-
-I am currently working on:
-
-- AI-assisted analytics systems for real-world decision making
-- Statistical learning methods for healthcare and longitudinal data
-- Survival-aware generative modeling
-- Reproducible machine learning pipelines
-- Intelligent agents for data quality and analytics workflows
-
----
-
-## 🌟 Featured Projects
+## 🚀 Featured Work
 
 ### 🛡️ DataGuard-Agent
-**AI-assisted Data Quality, ML Readiness, and Production Drift Auditor**
+**AI-assisted Data Quality & ML Readiness Framework**
 
-An intelligent framework for preparing real-world datasets for machine learning applications.
+A system designed to evaluate and improve real-world datasets before machine learning deployment.
 
-Key features:
-- Data quality assessment
-- Target leakage detection
-- ML readiness evaluation
-- Production drift monitoring
-- AI-generated analytical explanations
+✨ Data quality analysis • Leakage detection • Drift monitoring • AI explanations
 
-🔗 https://github.com/Zahra-Esfandiar/DataGuard-Agent
+---
 
 ### 🤖 PackagePilot
-**AI-Powered Learning Assistant for the R Ecosystem**
+**AI Learning Assistant for the R Ecosystem**
 
-An interactive assistant for discovering and learning R packages through AI-supported explanations and examples.
+An intelligent assistant for exploring R packages through interactive explanations and examples.
 
-🔗 https://github.com/Zahra-Esfandiar/PackagePilot
+---
 
 ### 🧬 EndSurvGAN
 **Generative Statistical Learning for Censored Time-to-Event Data**
 
-Research project focused on generating realistic synthetic survival data while preserving statistical properties.
+Research project focused on survival-aware generative modeling and synthetic time-to-event data generation.
 
-Focus areas:
-- Survival analysis
-- Generative modeling
-- Censored data
-- Statistical validation
+---
 
 ### 📊 SurvSure
 **Interactive Survival Analysis Platform**
 
-An R Shiny platform for reproducible survival analysis workflows.
+An R Shiny platform for reproducible survival analysis workflows including:
 
-Focus areas:
 - Survival models
 - Competing risks
 - Recurrent events
@@ -87,64 +97,50 @@ Focus areas:
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
-### Programming
-- R
-- Python
-- SQL
+<div align="center">
 
-### Statistics
-- Survival Analysis
-- Time-to-Event Modeling
-- Causal Inference
-- Bayesian Modeling
-- Statistical Learning
-- Experimental Design
+`R` `Python` `SQL` `Machine Learning` `Deep Learning` `LLMs` `R Shiny` `Streamlit` `Docker` `Power BI` `Git`
 
-### Machine Learning & AI
-- Deep Learning
-- Generative AI
-- Transformers
-- Large Language Models
-- Explainable AI
-- Trustworthy AI
-
-### Tools
-- R Shiny
-- Streamlit
-- Git & GitHub
-- Docker
-- Power BI
-- Reproducible Research Workflows
+</div>
 
 ---
 
 ## 📚 Research Highlights
 
-**EndSurvGAN: Generative Statistical Learning for Censored Time-to-Event Data**  
-Oral Presentation, 18th Iranian Statistics Conference.
+🎤 **EndSurvGAN: Generative Statistical Learning for Censored Time-to-Event Data**  
+Oral Presentation — 18th Iranian Statistics Conference
 
-**Multi-Outcome Prediction of Medication-Related Harm in ICU Patients Using MIMIC-IV**  
-Research collaboration on clinical risk prediction and machine learning validation.
+🏥 **Multi-Outcome Prediction of Medication-Related Harm in ICU Patients Using MIMIC-IV**  
+Clinical machine learning and risk prediction research
 
-**UniSurvFormer: Transformer-based Modeling for Recurrent Event Data**  
-Research on deep learning approaches for recurrent event analysis.
+🧠 **UniSurvFormer: Transformer-based Modeling for Recurrent Event Data**  
+Deep learning approaches for recurrent event analysis
 
 ---
 
-## 📫 Connect
+## 🌱 Currently Exploring
 
-- LinkedIn: https://www.linkedin.com/in/zahra-esfandiar/
-- GitHub: https://github.com/Zahra-Esfandiar
-- Google Scholar: https://scholar.google.com/citations?user=t97PX3gAAAAJ&hl=en
-- ResearchGate: https://www.researchgate.net/profile/Zahra-Esfandiar
+- AI-powered analytics systems
+- Statistical foundations of trustworthy AI
+- Healthcare machine learning
+- Generative models for structured data
+- Reproducible ML workflows
 
-Open to collaborations in:
+---
 
-- Statistical Machine Learning
-- Biostatistics
-- Survival Analysis
-- Generative AI
-- Healthcare Data Science
-- Trustworthy AI Systems
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Zahra-Esfandiar">GitHub</a> •
+<a href="https://www.linkedin.com/in/zahra-esfandiar/">LinkedIn</a> •
+<a href="https://scholar.google.com/citations?user=t97PX3gAAAAJ&hl=en">Google Scholar</a> •
+<a href="https://www.researchgate.net/profile/Zahra-Esfandiar">ResearchGate</a>
+
+</p>
+
+---
+
+⭐ Interested in collaborations related to **Statistics, Biostatistics, Survival Analysis, Healthcare AI, and Trustworthy Machine Learning**.
