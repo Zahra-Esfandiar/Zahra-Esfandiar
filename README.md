@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ZahraBanner" width="100%" />
+<img src="./assets/ZahraBanner.png" width="100%" />
 
 # 👋 Hi, I'm Zahra Esfandiar
 
