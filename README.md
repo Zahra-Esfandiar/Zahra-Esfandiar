@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:0F766E,100:312E81&height=260&section=header&text=Zahra%20Esfandiar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="./assets/statistical-banner.svg" width="100%" />
 
 # 👋 Hi, I'm Zahra Esfandiar
 
