@@ -62,20 +62,48 @@ Focused on building AI systems that are statistically rigorous, interpretable, r
 
 ## 🚀 Featured Research & Engineering
 
-### 🧬 EndSurvGAN
-Generative Statistical Learning for Censored Time-to-Event Data
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Survival Analysis` `Generative AI` `Synthetic Data` `Statistical Validation`
+### 🧬 [EndSurvGAN](https://github.com/Zahra-Esfandiar/EndSurvGAN)
+**End-to-End Survival-Aware Generative Modeling of Censored Time-to-Event Data**
 
-### 🛡️ DataGuard-Agent
-AI-Assisted Data Quality & ML Readiness Framework
+🏆 Accepted as an **Oral Presentation — 18th Iranian Statistics Conference (2026)**
+
+`Survival Analysis` `Generative AI` `Synthetic Data` `WGAN-GP` `Statistical Validation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [DataGuard-Agent](https://github.com/Zahra-Esfandiar/DataGuard-Agent)
+**AI-Assisted Data Quality & ML Readiness Framework**
+
+Data-centric reliability for leakage detection, validation, and production monitoring.
 
 `Data Quality` `Leakage Detection` `Drift Monitoring` `Trustworthy AI`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 SurvSure
-Interactive Survival Analysis Platform
+**Interactive Survival Analysis Platform**
 
 `Competing Risks` `Recurrent Events` `Statistical Reporting`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Context-Aware Transaction Anomaly Detection](https://github.com/Zahra-Esfandiar/Context-Aware-Transaction-Anomaly-Detection)
+**Context-aware anomaly modeling for real-world transaction analytics**
+
+`Anomaly Detection` `Financial Analytics` `Statistical ML`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,9 +119,9 @@ Interactive Survival Analysis Platform
 
 ## 📚 Research Highlights
 
-🎤 EndSurvGAN — Oral Presentation, 18th Iranian Statistics Conference  
-🏥 MIMIC-IV Clinical Risk Prediction — Multi-outcome machine learning for ICU data  
-🧠 UniSurvFormer — Transformer-based recurrent event modeling
+🎤 **EndSurvGAN** — Accepted Oral Presentation, 18th Iranian Statistics Conference (2026)  
+🏥 **MIMIC-IV Clinical Risk Prediction** — Multi-outcome machine learning for ICU data  
+🧠 **UniSurvFormer** — Transformer-based recurrent event modeling
 
 ---
 
