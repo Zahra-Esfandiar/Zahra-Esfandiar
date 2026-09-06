@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/academic-banner.png" width="100%" />
+<img src="./Zahra-Esfandiarassetsacademic-banner.png" width="100%" />
 
 # 👋 Hi, I'm Zahra Esfandiar
 
