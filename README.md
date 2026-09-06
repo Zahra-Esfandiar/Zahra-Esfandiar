@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,45:4338CA,75:2563EB,100:0F766E&height=260&section=header&text=Zahra%20Esfandiar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1D4ED8,75:0F766E,100:312E81&height=260&section=header&text=Zahra%20Esfandiar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # 👋 Hi, I'm Zahra Esfandiar
 
 ### 📐 Statistical Machine Learning Researcher | 🧬 Biostatistics | 🤖 Trustworthy AI
 
 <p>
-<img src="https://img.shields.io/badge/Statistics-Research%20%26%20Modeling-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Survival%20Analysis-Time--to--Event-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Survival%20Analysis-Time--to--Event-312E81?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Biostatistics-Healthcare%20AI-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Intelligent%20Systems-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistical%20ML-Research-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-Trustworthy%20Systems-7C3AED?style=for-the-badge" />
 </p>
 
-**Transforming complex data into reliable decisions through mathematical statistics, machine learning, and responsible AI.**
+**Building statistically grounded AI systems for complex biomedical and real-world data.**
 
 </div>
 
@@ -21,89 +21,72 @@
 
 ## 🧠 Research Identity
 
-MSc Graduate in Mathematical Statistics working at the intersection of:
+I am an early-career researcher in **Statistical Machine Learning and Biostatistics**, focusing on the intersection of:
 
-📐 Statistical Theory → 🤖 Machine Learning → 🏥 Healthcare & Real-World Intelligence
+📐 Statistical Modeling → 🤖 Machine Learning → 🏥 Healthcare Intelligence
 
-Focused on building AI systems that are statistically rigorous, interpretable, reproducible, and impactful.
+My work focuses on developing reliable, interpretable, and reproducible methods for:
 
----
-
-## 📊 Statistics × AI Landscape
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Statistical Foundations
-- Survival Analysis
-- Time-to-Event Modeling
-- Longitudinal Data Analysis
-- Causal Inference
-- Statistical Learning
-- Reproducible Computing
-
-</td>
-<td width="50%">
-
-### 🤖 AI Methods
-- Deep Learning
-- Generative Models
-- Transformers
-- Large Language Models
-- Explainable AI
-- AI Agents
-
-</td>
-</tr>
-</table>
+- Survival and time-to-event analysis
+- Longitudinal healthcare data
+- Causal inference
+- Deep statistical learning
+- Generative modeling
+- Trustworthy AI systems
 
 ---
 
-## 🚀 Featured Research & Engineering
+## 🧬 Featured Research
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 [EndSurvGAN](https://github.com/Zahra-Esfandiar/EndSurvGAN)
+### 🏆 EndSurvGAN
 **End-to-End Survival-Aware Generative Modeling of Censored Time-to-Event Data**
 
-🏆 Accepted as an **Oral Presentation — 18th Iranian Statistics Conference (2026)**
+Accepted as an **Oral Presentation — 18th Iranian Statistics Conference (2026)**
+
+🔗 https://github.com/Zahra-Esfandiar/EndSurvGAN
 
 `Survival Analysis` `Generative AI` `Synthetic Data` `WGAN-GP` `Statistical Validation`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🛡️ [DataGuard-Agent](https://github.com/Zahra-Esfandiar/DataGuard-Agent)
-**AI-Assisted Data Quality & ML Readiness Framework**
+## 🚀 Applied AI Projects
 
-Data-centric reliability for leakage detection, validation, and production monitoring.
+### 🛡️ DataGuard-Agent
+AI-assisted data quality and ML readiness framework.
 
-`Data Quality` `Leakage Detection` `Drift Monitoring` `Trustworthy AI`
+Focus:
+- Data validation
+- Leakage detection
+- ML reliability
+- Production monitoring
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🔗 https://github.com/Zahra-Esfandiar/DataGuard-Agent
 
-### 📊 SurvSure
-**Interactive Survival Analysis Platform**
+### 🔍 Context-Aware Transaction Anomaly Detection
+Statistical ML approaches for real-world transaction analytics.
 
-`Competing Risks` `Recurrent Events` `Statistical Reporting`
+🔗 https://github.com/Zahra-Esfandiar/Context-Aware-Transaction-Anomaly-Detection
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🔍 [Context-Aware Transaction Anomaly Detection](https://github.com/Zahra-Esfandiar/Context-Aware-Transaction-Anomaly-Detection)
-**Context-aware anomaly modeling for real-world transaction analytics**
+## 📊 Research Areas
 
-`Anomaly Detection` `Financial Analytics` `Statistical ML`
+| Statistical Foundations | AI & Engineering |
+| --- | --- |
+| Survival Analysis | Deep Learning |
+| Longitudinal Data | Generative Models |
+| Causal Inference | Transformers |
+| Statistical Learning | AI Agents |
+| Reproducible Research | Explainable AI |
 
-</td>
-</tr>
-</table>
+---
+
+## 🧪 Selected Research Experience
+
+- 🏥 Clinical risk prediction using large-scale ICU datasets (MIMIC)
+- 🧠 Transformer-based recurrent event modeling
+- 🧬 Survival-aware generative modeling
+- 📊 Statistical analytics and AI systems for real-world applications
 
 ---
 
@@ -111,51 +94,17 @@ Data-centric reliability for leakage detection, validation, and production monit
 
 <div align="center">
 
-📐 R • 🐍 Python • SQL • Machine Learning • Deep Learning • LLMs • R Shiny • Docker • Power BI • Git
+R • Python • SQL • PyTorch • Machine Learning • Deep Learning • LLMs • R Shiny • Power BI • Git
 
 </div>
 
 ---
 
-## 📚 Research Highlights
+## 🎓 Research Direction
 
-🎤 **EndSurvGAN** — Accepted Oral Presentation, 18th Iranian Statistics Conference (2026)  
-🏥 **MIMIC-IV Clinical Risk Prediction** — Multi-outcome machine learning for ICU data  
-🧠 **UniSurvFormer** — Transformer-based recurrent event modeling
+Interested in PhD opportunities in:
 
----
-
-## 🏆 Research & GitHub Journey
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zahra-Esfandiar&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zahra-Esfandiar&show_icons=true&theme=transparent&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-Esfandiar&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Zahra-Esfandiar/Zahra-Esfandiar/output/github-contribution-grid-snake.svg" />
-
-</div>
+**Statistics • Biostatistics • Survival Analysis • Statistical Machine Learning • Healthcare AI**
 
 ---
 
@@ -171,4 +120,4 @@ Data-centric reliability for leakage detection, validation, and production monit
 
 ---
 
-⭐ Open to collaborations in **Statistics, Biostatistics, Survival Analysis, Healthcare AI, and Trustworthy Machine Learning**.
+⭐ Open to research collaborations in **Statistics, Biostatistics, Survival Analysis, Healthcare AI, and Trustworthy Machine Learning**.
