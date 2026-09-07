@@ -27,30 +27,36 @@ Research interests:
 
 ## 🧬 Featured Research
 
-### 🏆 EndSurvGAN
+### 🏆 [EndSurvGAN](https://github.com/Zahra-Esfandiar/EndSurvGAN)
 **End-to-End Survival-Aware Generative Modeling of Censored Time-to-Event Data**
 
 Accepted as an **Oral Presentation — 18th Iranian Statistics Conference (2026)**
-
-🔗 https://github.com/Zahra-Esfandiar/EndSurvGAN
 
 `Survival Analysis` `Generative AI` `Synthetic Data` `Statistical Validation`
 
 ---
 
-## 🚀 Featured AI Systems
+## 🚀 Featured AI & Data Systems
 
-### 🛡️ DataGuard-Agent
-AI-assisted framework for data quality, leakage detection, and ML reliability.
+### 🛡️ [DataGuard-Agent](https://github.com/Zahra-Esfandiar/DataGuard-Agent)
+AI-assisted framework for data quality, leakage detection, drift monitoring, and ML reliability.
 
-### 🤖 DE-Intelligence-Agent
-Research intelligence agent for discovery, ranking, memory, and evidence-aware workflows.
+### 🔍 [Context-Aware Transaction Anomaly Detection](https://github.com/Zahra-Esfandiar/Context-Aware-Transaction-Anomaly-Detection)
+Behavior-aware statistical machine learning for synthetic financial transaction intelligence.
 
-### 🔍 Context-Aware Transaction Anomaly Detection
-Behavior-aware statistical ML for financial intelligence.
+### 📦 [PackagePilot](https://github.com/Zahra-Esfandiar/PackagePilot)
+R/Shiny workspace for CRAN package discovery, structured learning, and AI-ready statistical computing assistance.
 
-### 📦 PackagePilot
-AI-ready learning workspace for the R ecosystem.
+### 🤖 DE Intelligence Agent
+Private research-intelligence system for scholarly discovery, evidence-aware ranking, personal research memory, and statistical screening.
+
+---
+
+## 📚 Selected Research Output
+
+- **EndSurvGAN: End-to-End Survival-Aware Generative Modeling of Censored Time-to-Event Data**  
+  Oral Presentation — **18th Iranian Statistics Conference (2026)**  
+  Repository and conference material: [EndSurvGAN](https://github.com/Zahra-Esfandiar/EndSurvGAN)
 
 ---
 
@@ -68,13 +74,13 @@ AI-ready learning workspace for the R ecosystem.
 
 ## 🛠️ Technical Stack
 
-R • Python • SQL • PyTorch • Machine Learning • Deep Learning • LLMs • R Shiny • Power BI • Git
+**R • Python • SQL • PyTorch • Machine Learning • Deep Learning • LLMs • R Shiny • Power BI • Git**
 
 ---
 
 ## 🎓 PhD Research Direction
 
-Interested in opportunities in:
+Interested in research opportunities in:
 
 **Statistics • Biostatistics • Survival Analysis • Statistical Machine Learning • Healthcare AI**
 
@@ -82,6 +88,7 @@ Interested in opportunities in:
 
 ## 📫 Connect
 
-GitHub ✦ LinkedIn ✦ Google Scholar
+- GitHub: [@Zahra-Esfandiar](https://github.com/Zahra-Esfandiar)
+- Email: [z.esfandiyar214@gmail.com](mailto:z.esfandiyar214@gmail.com)
 
-⭐ Open to research collaborations in Statistics, Biostatistics, Survival Analysis, and Trustworthy AI.
+⭐ Open to research collaborations in Statistics, Biostatistics, Survival Analysis, Statistical Machine Learning, and Trustworthy AI.
